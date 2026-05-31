@@ -1,9 +1,9 @@
 # Arduino 4 Axis Teach & Repeat Robot Arm
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/GHhGzDYB_6g/0.jpg)](https://youtu.be/GHhGzDYB_6g)
 
 📺 **Watch the Full Build Video on YouTube**  
-https://youtu.be/YOUR_VIDEO_ID
+https://youtu.be/GHhGzDYB_6g
 
 ---
 
